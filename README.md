@@ -1,11 +1,12 @@
 ## Hi there 👋
-<h1>Hi, I'm Nabil! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
+<h1>Hi, I'm Nabil! <br/><a href="https://github.com/nabilzzzahran">Programmer</a>
   
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
+- <b>Practice using Kaggle</b>
+  - [Using Kaggle](https://github.com/nabilzzzahran/gcolab/tree/main)
 <!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
